@@ -9,7 +9,7 @@
     "start": "next start",
     "migrate": "npx prisma db:init",
     "db:migrate": "npx prisma db push",
-    "postinstall": "npx prisma db:generate",
+    "postinstall": "npx prisma generate",
     "db:seed": "npx prisma db seed",
     "lint": "next lint",
     "import-data": "node scripts/import-data.js"
