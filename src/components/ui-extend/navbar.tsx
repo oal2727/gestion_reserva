@@ -15,7 +15,7 @@ return (
             <Link href="/reserva-registro">Fomrulario de Reserva</Link>
         </li>
         <li>
-            <Link href="/listado-registro">Listado de Reservar</Link>
+            <Link href="/listado-registro">Listado de Reservas</Link>
         </li>
     </ul>
     </div>
